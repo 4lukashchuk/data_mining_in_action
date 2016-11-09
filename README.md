@@ -1,1 +1,1 @@
-# data_mining_in_action
+# data_mining_in_action_2016_MIPT
